@@ -1,0 +1,8 @@
+crewai
+langchain
+openai
+python-dotenv
+langchain-openai
+mysql-connector-python
+mysqlclient
+faker  # for generating sample data
